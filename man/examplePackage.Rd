@@ -11,6 +11,14 @@ An example package
 \details{
 A test to try out making packages
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mattsq/examplePackage}
+  \item Report bugs at \url{https://github.com/mattsq/examplePackage/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 

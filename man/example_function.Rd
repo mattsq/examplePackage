@@ -18,7 +18,7 @@ This function returns the sum of the two vectors as another vector
 This is a an example function
 }
 \details{
-It takes two vectors and adds them together
+It takes two vectors and adds them together.
 }
 \examples{
 x <- 1
