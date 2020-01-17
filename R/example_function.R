@@ -2,7 +2,7 @@
 #'
 #' This is a an example function 
 #'
-#' It takes two vectors and adds them together
+#' It takes two vectors and adds them together.
 #' @param x one vector
 #' @param y another vector
 #' @export
