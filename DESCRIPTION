@@ -1,13 +1,13 @@
 Package: examplePackage
-Title: What the Package Does (One Line, Title Case)
+Title: Me playing with usethis and devtools
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Matt",
+           family = "Simmons",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "email@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Some simple example functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
