@@ -17,4 +17,5 @@ Suggests:
 URL: https://github.com/mattsq/examplePackage
 BugReports: https://github.com/mattsq/examplePackage/issues
 Imports: 
-    magrittr
+    magrittr,
+    purrr
