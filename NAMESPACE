@@ -2,6 +2,7 @@
 
 export("%not in%")
 export(example_function)
+export(is.not.na)
 export(password_gen)
 import(purrr)
 importFrom(stats,rbinom)
