@@ -1,3 +1,2 @@
 # examplePackage
-What the Package Does (One Line, Title Case)
-This is just me screwing around with usethis:: and testing my knowledge from Datacamp.
+This package is just me messing around with usethis and devtools. Has some helper functions.
