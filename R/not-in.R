@@ -5,8 +5,8 @@
 #' It does the opposite of what in does.
 #' @param x a value
 #' @param table a vector or table of values
-#' @import purrr
 #' @export
+#' @import purrr
 #' @examples
 #' x <- 1
 #' y <- c(2,3,4)
@@ -18,5 +18,4 @@
 #'
 #'
 
-library(purrr)
 `%not in%` <- purrr:::negate(`%in%`)
