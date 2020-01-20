@@ -24,4 +24,5 @@ shuffle <- function(data, seed = NA) {
   # Randomly order data
   data <- data[rows,]
 
+  return(data)
 }
