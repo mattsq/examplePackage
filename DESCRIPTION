@@ -21,4 +21,5 @@ Imports:
     purrr,
     httr,
     glue,
-    dplyr
+    dplyr,
+    igraph
