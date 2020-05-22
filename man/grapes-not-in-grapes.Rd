@@ -18,7 +18,7 @@ This function true if x is not in y
 This is the opposite of in
 }
 \details{
-It does the opposite of what in does.
+It does the opposite of what \code{in} does.
 }
 \examples{
 x <- 1

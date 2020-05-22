@@ -2,7 +2,7 @@
 #'
 #' This is the opposite of in
 #'
-#' It does the opposite of what in does.
+#' It does the opposite of what \code{in} does.
 #' @param x a value
 #' @param table a vector or table of values
 #' @export

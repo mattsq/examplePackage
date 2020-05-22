@@ -4,10 +4,12 @@
 \alias{password_gen}
 \title{Password Generator}
 \usage{
-password_gen(password_length = 8)
+password_gen(password_length = 8, special_chars = NULL)
 }
 \arguments{
 \item{password_length}{the length in characters of the password}
+
+\item{special_chars}{an optional string vector with allowable special characters to use, if needed}
 }
 \value{
 This returns a random password of length password_length
